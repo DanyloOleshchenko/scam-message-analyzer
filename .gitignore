@@ -1,0 +1,23 @@
+# Android Studio and Gradle
+.gradle/
+.idea/
+.kotlin/
+*.iml
+local.properties
+
+# Build outputs
+**/build/
+captures/
+.externalNativeBuild/
+.cxx/
+*.apk
+*.aab
+
+# Signing material must never be committed
+*.jks
+*.keystore
+keystore.properties
+
+# Operating system files
+.DS_Store
+Thumbs.db
