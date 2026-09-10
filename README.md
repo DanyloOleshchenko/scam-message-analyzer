@@ -2,6 +2,8 @@
 
 An Android cybersecurity proof of concept that analyses suspicious messages locally and explains why a message may be risky. Users can paste text manually or, after granting permission, scan recent and incoming SMS messages.
 
+**Originally developed:** 29 March 2026.
+
 ## Features
 
 - Rule-based scam detection for urgency, threats, fake rewards, requests for money, and requests for sensitive data
